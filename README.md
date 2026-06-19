@@ -1,7 +1,7 @@
 # Bhumit Buha
 
 **Software Developer · C++17 · .NET · Python · React · DevOps**
-Ottawa, ON · April 2026 Computer Engineering Technology grad · Open to internship, co-op, and new-grad roles in Canada
+Ottawa, ON · April 2026 Computer Engineering Technology grad · Open to internships and new-grad roles in Canada
 
 ---
 
