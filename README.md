@@ -136,7 +136,7 @@ A in .NET Enterprise Application Development
 
 - Completed CET-CS at Algonquin (graduated on Apr 2026)
 - Building out the Linux Production Homelab on Azure and AWS with Terraform and Ansible
-- Working on AI enabled F1 proidiction system
+- Working on AI enabled F1 pridiction system
 - Corrigo CMMS administration certification in progress
 
 ---
