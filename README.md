@@ -26,12 +26,28 @@ Proof?
 
 ## Experience Snapshot
 
+```mermaid
+timeline
+    title Career Path
+    2021 to 2023 : Choice IT Solutions
+                 : Systems Support Specialist
+                 : Led 6-person helpdesk, 140 business clients
+    2024 to 2025 : Kinaxis
+                 : IT Support Technician
+                 : 93-94% FCR on ServiceNow
+                 : PowerShell automation cut provisioning 60%
+    2025 to 2026 : FYN at Algonquin Entrepreneurship Program
+                 : Project Lead Developer
+                 : Led 3-person team, full product lifecycle
+    Apr 2026     : Algonquin CET-CS graduate
+                 : Open to internship and new-grad roles
+```
+
 | Role | Company | Highlight |
 |---|---|---|
 | **Project Lead Developer, FYN** | Algonquin Entrepreneurship Program (Ottawa) | *Sep 2025 to Apr 2026.* Led a 3-person team across product, engineering, and business development on FYN, a personal finance automation platform. Drove the full product lifecycle, ran pitch sessions that secured business meetings, and owned both architecture and go-to-market. |
 | **IT Support Technician** | Kinaxis (Ottawa) | *Sep 2024 to Apr 2025.* 93-94% first-contact resolution on ServiceNow. PowerShell deployment pipeline cut OS provisioning 60% across 100+ enterprise endpoints. |
 | **Systems Support Specialist** | Choice IT Solutions (Surat) | *Apr 2021 to Jul 2023.* Led a 6-member helpdesk supporting 140 business clients under Annual Maintenance Contracts. Held downtime under 2% across 1,200 systems. Microsoft 365 administration across client tenants. |
-
 ---
 
 ## 🎓 Education
