@@ -20,7 +20,7 @@ Proof?
 - PowerShell deployment pipeline that cut OS provisioning 60% across 100+ enterprise endpoints
 - A+ in Compilers, Database Systems, Java, .NET, and Calculus on a 3.44 cumulative GPA
 - Multi-distro Linux production lab on Azure and AWS with Terraform and Ansible
-- Plus the repos pinned below
+- Plus the repos you can see here
 ---
 
 
