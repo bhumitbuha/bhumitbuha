@@ -6,11 +6,21 @@ Ottawa, ON · April 2026 Computer Engineering Technology grad · Open to interns
 ---
 
 ## About
+Who am I?
+April 2026 Computer Engineering Technology grad from Algonquin College with ex co-op Kinaxis and 3 years of technical experience in Ottawa.
 
-I build systems that ship. Parallel-correctness C++ engines, hand-written compilers, distributed client and server apps, AI-integrated full-stack products, and the CI/CD pipelines that put them in production. Coming off a year of enterprise IT at Kinaxis on the ServiceNow corporate stack, finishing CET-CS at Algonquin College in April 2026.
+What I build?
+C++17 parallel engines, C hand written compilers, Java applications, .NET and React full-stack products, distributed client and server apps, and the CI/CD pipelines that move them to production.
 
-I care about correctness under load, automation that pays for itself in week one, and writing the runbook before the second incident.
+What I am looking for?
+Internship, and new grad roles in Canada. Hybrid Ottawa preferred, fully remote across Canada also works.
 
+Proof?
+- 93-94% first-contact resolution on ServiceNow during my year at Kinaxis
+- PowerShell deployment pipeline that cut OS provisioning 60% across 100+ enterprise endpoints
+- A+ in Compilers, Database Systems, Java, .NET, and Calculus on a 3.44 cumulative GPA
+- Multi-distro Linux production lab on Azure and AWS with Terraform and Ansible
+- Plus the repos pinned below
 ---
 
 
@@ -18,6 +28,8 @@ I care about correctness under load, automation that pays for itself in week one
 
 | Role | Company | Highlight |
 |---|---|---|
+
+| **Lead Developer** | Algonquin College Entrepreneurship Program |  Led a 3-person team across product, engineering, and business development on FYN, a personal finance automation platform. Drove the full product lifecycle, ran pitch sessions that secured business meetings, and owned both architecture and go-to-market. |
 | **IT Support Technician** | Kinaxis (Ottawa) | 93-94% first-contact resolution on ServiceNow. PowerShell deployment pipeline cut OS provisioning 60% across 100+ enterprise endpoints. |
 | **Systems Support Specialist** | Choice IT Solutions (Surat) | Led a 6-member helpdesk supporting 140 business clients under Annual Maintenance Contracts. Held downtime under 2% across 1,200 systems. Microsoft 365 administration across client tenants. |
 
@@ -107,8 +119,9 @@ A in .NET Enterprise Application Development
 
 ## Currently
 
-- Finishing CET-CS at Algonquin (graduating Apr 2026)
+- Completed CET-CS at Algonquin (graduated on Apr 2026)
 - Building out the Linux Production Homelab on Azure and AWS with Terraform and Ansible
+- Working on AI enabled F1 proidiction system
 - Corrigo CMMS administration certification in progress
 
 ---
