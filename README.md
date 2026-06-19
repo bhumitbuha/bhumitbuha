@@ -7,13 +7,13 @@ Ottawa, ON · April 2026 Computer Engineering Technology grad · Open to interns
 
 ## About
 Who am I?
-April 2026 Computer Engineering Technology grad from Algonquin College with ex co-op Kinaxis and 3 years of technical experience in Ottawa.
+- April 2026 Computer Engineering Technology grad from Algonquin College with ex co-op Kinaxis and 3 years of technical experience in Ottawa.
 
 What I build?
-C++17 parallel engines, C hand written compilers, Java applications, .NET and React full-stack products, distributed client and server apps, and the CI/CD pipelines that move them to production.
+- C++17 parallel engines, C hand written compilers, Java applications, .NET and React full-stack products, distributed client and server apps, and the CI/CD pipelines that move them to production.
 
 What I am looking for?
-Internship, and new grad roles in Canada. Hybrid Ottawa preferred, fully remote across Canada also works.
+- Internship, and new grad roles in Canada. On-site and remote across Canada.
 
 Proof?
 - 93-94% first-contact resolution on ServiceNow during my year at Kinaxis
